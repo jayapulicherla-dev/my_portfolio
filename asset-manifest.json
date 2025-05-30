@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jayapulicherla-dev/my_portfolio/static/css/main.85e4936f.chunk.css",
+    "main.js": "/jayapulicherla-dev/my_portfolio/static/js/main.8cc0bd1a.chunk.js",
+    "main.js.map": "/jayapulicherla-dev/my_portfolio/static/js/main.8cc0bd1a.chunk.js.map",
+    "runtime~main.js": "/jayapulicherla-dev/my_portfolio/static/js/runtime~main.971bca7f.js",
+    "runtime~main.js.map": "/jayapulicherla-dev/my_portfolio/static/js/runtime~main.971bca7f.js.map",
+    "static/js/2.065621da.chunk.js": "/jayapulicherla-dev/my_portfolio/static/js/2.065621da.chunk.js",
+    "static/js/2.065621da.chunk.js.map": "/jayapulicherla-dev/my_portfolio/static/js/2.065621da.chunk.js.map",
+    "index.html": "/jayapulicherla-dev/my_portfolio/index.html",
+    "precache-manifest.c55827113642af47a7b4a1e3b1a2b62c.js": "/jayapulicherla-dev/my_portfolio/precache-manifest.c55827113642af47a7b4a1e3b1a2b62c.js",
+    "service-worker.js": "/jayapulicherla-dev/my_portfolio/service-worker.js",
+    "static/css/main.85e4936f.chunk.css.map": "/jayapulicherla-dev/my_portfolio/static/css/main.85e4936f.chunk.css.map"
+  }
+}
