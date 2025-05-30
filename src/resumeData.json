@@ -1,0 +1,110 @@
+{
+  "personalInfo": {
+    "name": "JAYA SAMHITHA PULICHERLA",
+    "title": "Java Full Stack Developer",
+    "email": "jayaspulicherla@gmail.com",
+    "phone": "+1-660-528-8653",
+    "linkedin": "linkedin.com/in/jayaspulicherla",
+    "linkedinLink": "https://linkedin.com/in/jayaspulicherla"
+  },
+  "summary": "A Java Full Stack Developer with over 4 years of experience, who is adept at the design, development, and deployment of secure, scalable, and responsive web applications. Proficiency in the development of dynamic single-page applications (SPAs) using modern web frameworks, Redux and ReactJS, including front-end technologies. I am proficient in the development of backend applications using Java, Kotlin, Spring Boot, and Node.js and NPM as well as creating RESTful APIs and GraphQL to facilitate seamless integration and automated them using Postman. Experience in the development of reusable React component libraries, as well as expertise in JSX, component nesting, virtual DOM manipulation and Redux architecture. Experience in the development of scalable web server applications and microservices using Node.js, MongoDB, and NPM modules. Proficient in the administration of source code versions using Git. Proficient in the deploy and scaling of applications with efficiency using Docker, Azure DevOps, AKS followed by Azure Functions and ARM Templates for server less and Custom deployments. Proven expertise in containerization, AWS cloud services, Azure Blob Storage, ECS Kubernetes, and CI/CD pipelines. Practical expertise with continuous integration and deployment (CI/CD) pipelines, utilizing tools such as Jenkins, Git, and GitHub. Proven experience in the administration of cloud infrastructure and server-less architecture using AWS services, including Lambda, EC2, S3, VPC, RDS, and Azure cloud services. Demonstrated capacity to work independently and effectively collaborate in cross-functional teams, exhibiting exceptional organizational and communication abilities. Proficient in server-side frameworks such as Node.js and Java script libraries such as React.js, and Redux. A comprehensive comprehension of distributed architectures, Azure Arc cloud based multi-tier architectures, MVC, Design Patterns, and Object-Oriented Design (OOD). Employed Agile methodology and demonstrates a comprehensive understanding of Service Oriented Architecture (SOA) for Web Services, including the use of Restful services. Significant experience in the development of real-time data streaming solutions utilizing Apache Flink and Azure Event Hubs. Comprehensive experience in the rapid and efficient development of web pages using JavaScript, JQuery, HTML5, CSS3, and ReactJs, as well as in the cross-browser compatibility of web pages. Significant experience in the development of web-based applications using Java-based application frameworks such as Spring and Hibernate. Proficient in the development of intricate MapReduce programs that operate with a variety of file formats like XML, and JSON. Engaged in Agile practices, such as Test-Driven Development (TDD) and Behavior-Driven Development (BDD) as part of a Scrum team. Demonstrated expertise in the development of web and web 2.0 applications utilizing the MVC framework, HTML5, XML, CSS3, jQuery, and AJAX. Proficiency in Java-based Multi-Threading, Collection, Interfaces, Synchronization, and Exception Handling. Proficient in using MongoDB (NoSQL), with expertise in designing scalable database architectures, optimizing queries and managing data efficiently for high-performance applications. Proficient in the development of unit test cases using Jest, Mocha, Cypress, Unit and possessing a comprehensive understanding of Test Driven Development (TDD). Experience in curating test cases using Selenium and Cucumber for browser automation and Behavior Driven Development(BDD) framework. Proficient in the delivery of messages using Azure Service Bus, Event Grid, Queue Storage, Event and Notification Hubs.",
+  "skills": {
+    "frontend": "React.js, Redux, JSX, JavaScript, JQuery, AJAX, HTML5, CSS3, SCSS, Component-based Architecture & Virtual DOM, Single-Page Applications (SPA)",
+    "backend": "Node.js, Express.js, Java, Spring Boot, Hibernate, MongoDB, GraphQL, RESTful APIs, Service-Oriented Architecture (SOA), Multi-Threading, Collection Framework, Syncronization, Exception Handling",
+    "cloudDevOps": "Azure Services(Blob Storage, AKS, Functions, ARM Templayes, Event Grid, Service Bus, Queue Storage), AWS Services (EC2, Lambda, S3, RDS), Azure Arc, Mulit-Tire Cloud Architectures",
+    "microservicesDistributedSystems": "Microservices architecture with Node.js and Spring Boot, Event-driven architecture (Azure Event Hubs, Apache Flink), Containerization (Docker, Kubernetes), Distributed computing and cloud-native applications",
+    "testingAutomation": "Unit Testing (Jest, Mocha, Cypress, Unit), End-to-End Testing (Selenium, Cucumber, BDD), Test-Driven Development (TDD), Behavior-Driven Development (BDD)",
+    "agileSoftwareDevelopment": "Agile (Scrum, Kanban), Version Control (Git, GitHub), Continuous Integration/Continuous Deployment (CI/CD), Software Design Patterns (MVC, OOD)",
+    "webApplicationSecurity": "Secure API Development, Authentication & Authorization (OAuth, JWT), Role-based Access Control"
+  },
+  "experience": [
+    {
+      "id": "exp2",
+      "title": "JavaScript Frontend Developer for Doorstep Banking",
+      "company": "Atyati Technologies Pvt Ltd, Bengaluru, Karnataka",
+      "dates": "Jun 2021 - Aug 2023",
+      "responsibilities": [
+        "Developed interactive and responsive Single-Page Applications (SPA) using React.js and Redux, enhancing user experience.",
+        "Implemented component-based architecture with Virtual DOM optimization, improving rendering efficiency by 30%.",
+        "Built secure front-end authentication mechanisms (OAuth, JWT), increasing security compliance by 40%.",
+        "Designed a seamless and accessible UI/UX for doorstep banking services, reducing customer drop-off rates by 25%.",
+        "Developed cross-browser compatible interfaces ensuring smooth operation across multiple devices, enhancing usability by 30%.",
+        "Conducted unit testing using Jest, Mocha, and Cypress, increasing front-end reliability by 45%.",
+        "Automated end-to-end testing with Selenium and Cucumber, reducing post-deployment bugs by 35%.",
+        "Applied Test-Driven Development (TDD) and Behavior-Driven Development (BDD), improving code maintainability by 40%.",
+        "Managed version control using Git and GitHub, streamlining collaboration and reducing integration issues.",
+        "Ensured secure API development and data handling, preventing vulnerabilities and improving security by 50%.",
+        "Developed features using reusable React Components, JSX and Virtual DOM enabling banking customers to schedule document pick-ups digitally, improving request processing time by 40%.",
+        "Enhanced Digital Life Certificate submission flow for pensioners, reducing submission errors by 25%.",
+        "Optimized form validations and document upload mechanisms, ensuring a seamless pick-up and delivery process, reducing user errors by 35%.",
+        "Improved banking service accessibility through responsive web design, increasing adoption by 30% among senior citizens and differently-abled users.",
+        "Integrated CI/CD pipelines for front-end deployments, accelerating release cycles by 45% and improving application stability."
+      ]
+    },
+    {
+      "id": "exp1",
+      "title": "JavaScript Backend Developer for Financial Inclusion Project",
+      "company": "Atyati Technologies Pvt Ltd, Bengaluru, Karnataka",
+      "dates": "Aug 2019 - May 2021",
+      "responsibilities": [
+        "Designed and developed scalable microservices using Java, Kotlin, and Spring Boot, enhancing financial inclusion services for customers efficiently.",
+        "Created RESTful APIs and GraphQL endpoints for seamless integration, and automated those API calls using Postman improving API response time by 30%.",
+        "Implemented secure authentication and authorization mechanisms (OAuth, JWT), strengthening application security by 40%.",
+        "Built robust Node.js backend applications leveraging Express.js, resulting in faster data processing.",
+        "Containerized applications using Docker and orchestrated deployments with Kubernetes (AKS, ECS), reducing deployment errors by 35%.",
+        "Developed and optimized NoSQL (MongoDB) and relational databases (SQL, RDS), improving query performance by 30%.",
+        "Managed AWS and Azure cloud infrastructure (Lambda, EC2, Blob Storage, AKS), achieving a 25% reduction in infrastructure costs.",
+        "Streamlined continuous integration and deployment (CI/CD) pipelines using Jenkins and Azure DevOps, shortening release cycles by 40%.",
+        "Utilized Apache Flink and Azure Event Hubs for real-time data streaming, increasing data processing throughput by 50%.",
+        "Designed Service-Oriented Architecture (SOA) based solutions, ensuring scalability and enhancing system availability.",
+        "Employed multi-threading and synchronization techniques in Java applications, boosting system performance.",
+        "Conducted Agile development practices (Scrum, Kanban), resulting in improved team productivity.",
+        "Created secure, multi-tier distributed cloud-native applications, increasing system resilience and uptime by 35%.",
+        "Administered effective version control practices using Git and GitHub, reducing code integration issues.",
+        "Developed robust solutions for handling JSON and XML data formats, enhancing data interoperability by 40%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "id": "edu1",
+      "degree": "Master of Science: Information System",
+      "institution": "Northwest Missouri State University, Maryville, Missouri",
+      "graduationDate": "Dec 2024",
+      "gpa": "GPA 3.4/4"
+    },
+    {
+      "id": "edu2",
+      "degree": "Bachelor of Technology: Computer Science Engineering",
+      "institution": "Vasireddy Venkatadri Institute of Technology(affliated to JNTUK), Guntur, Andhra Pradesh",
+      "graduationDate": "May 2019",
+      "gpa": "GPA 3.1/4"
+    }
+  ],
+  "certifications": [
+    {
+      "id": "cert1",
+      "name": "Foundational C# with Microsoft",
+      "date": "Mar 2025",
+      "issuer": "Freecodecamp/Microsoft"
+    },
+    {
+      "id": "cert2",
+      "name": "React Front to Back",
+      "date": "Jul 2021",
+      "issuer": "Udemy"
+    },
+    {
+      "id": "cert3",
+      "name": "Modern JavaScript from Beginning",
+      "date": "Jun 2021",
+      "issuer": "Udemy"
+    },
+    {
+      "id": "cert4",
+      "name": "Certified Full Stack Developer",
+      "date": "Jul 2020",
+      "issuer": "AttainU, Bengaluru, Karnataka"
+    }
+  ]
+}
